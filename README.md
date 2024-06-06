@@ -15,7 +15,7 @@
 ![kavin-prakash's Stats](https://github-readme-stats.vercel.app/api?username=kavin-prakash&theme=dark&show_icons=true&hide_border=false&count_private=true)
 ![kavin-prakash's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kavin-prakash&theme=dark&hide_border=false)
 
-### Most Used Programming Language Stats
+#### Most Used Programming Language Stats
 ![ka#vin-prakash's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kavin-prakash&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
 #### My GitHub Account Activity Status㊗️
