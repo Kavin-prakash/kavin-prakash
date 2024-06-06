@@ -1,6 +1,6 @@
 ## Hi Folks 👋 It's me kavin 
 
-###Trainee software Engineer @Relevantz Technologies
+Trainee software Engineer @Relevantz Technologies
 
 - 💻 I am currently working on Relevantz Technologies 
 - 🌱 I am currently learning on React Framework 
