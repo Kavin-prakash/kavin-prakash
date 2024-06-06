@@ -13,10 +13,10 @@ Trainee software Engineer @Relevantz Technologies
 
 ### GitHub stats
 ![kavin-prakash's Stats](https://github-readme-stats.vercel.app/api?username=kavin-prakash&theme=dark&show_icons=true&hide_border=false&count_private=true)
+![kavin-prakash's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kavin-prakash&theme=dark&show_icons=true&hide_border=false&layout=compact)
 <br/>
 ![kavin-prakash's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kavin-prakash&theme=dark&hide_border=false)
-<br/>
-![kavin-prakash's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kavin-prakash&theme=dark&show_icons=true&hide_border=false&layout=compact)
+
 #### My GitHub Account Activity Status㊗️
 [![Kavin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kavin-prakash&bg_color=232529&color=f9f1f8&line=eef9fb&point=e6dbdb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
