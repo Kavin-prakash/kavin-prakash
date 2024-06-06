@@ -1,6 +1,7 @@
 ## Hi Folks 👋 It's me kavin 
 
 Trainee software Engineer @Relevantz Technologies
+<img align="right" width="370" height="290" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavin-prakash&theme=dark&show_icons=true&hide_border=false&layout=compact">
 
 - 💻 I am currently working on Relevantz Technologies 
 - 🌱 I am currently learning on React Framework 
@@ -13,7 +14,7 @@ Trainee software Engineer @Relevantz Technologies
 
 ### GitHub stats
 ![kavin-prakash's Stats](https://github-readme-stats.vercel.app/api?username=kavin-prakash&theme=dark&show_icons=true&hide_border=false&count_private=true)
-![kavin-prakash's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kavin-prakash&theme=dark&show_icons=true&hide_border=false&layout=compact)
+
 <br/>
 ![kavin-prakash's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kavin-prakash&theme=dark&hide_border=false)
 
